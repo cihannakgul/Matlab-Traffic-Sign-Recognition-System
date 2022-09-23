@@ -1,3 +1,3 @@
-# Matlab-Trafik-Levhasi-Tanima-Sistemi
-Image Processing Toolbox kullanarak Matlab Ortamında Trafik Levhası Tanıma Sistemi geliştirdik. 
-## Yüklenen levhaları Image Processing ile işleyip fotoğraftaki levhayı algılayan ve levhanın hangi levha olduğunu söyleyen MATLAB projesidir. 
+# Matlab-Traffic-Sign-Recognition-System
+We developed Traffic Sign Recognition System in Matlab Environment by using Image Processing Toolbox.
+## It is a MATLAB project that processes the loaded signs with Image Processing, detects the sign in the photo and tells which sign it is.
